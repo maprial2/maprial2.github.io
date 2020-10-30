@@ -1,0 +1,50 @@
+﻿body {
+    margin: 0 auto;
+    padding: 1em;
+}
+h2{
+    font-family: sans-serif;
+}
+header img {
+    float: left;
+    margin-right: 1em;
+}
+nav {
+    float: right;
+}
+
+.interes_titulo {
+    color: #077CE3;
+}
+.profe_titulo {
+    color: #6E07E3;
+}
+.block_titulo {
+    color: #E39A07;
+}
+section {
+    padding: 1em;
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+aside {
+    background-color: #B4E307;
+    border: 0.1em solid #336699;
+    padding: 0.5em;
+    width: 50%;
+    float: right;
+    box-sizing: border-box;
+}
+
+section li {
+    font-style: italic;
+    font-size: 20px;
+}
+aside img {
+    max-width: 100%;
+}
+
+footer {
+    float: left;
+}
